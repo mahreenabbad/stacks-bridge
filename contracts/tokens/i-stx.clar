@@ -1,4 +1,4 @@
-(impl-trait .sip-010.sip-010-trait)
+(impl-trait .sip-010.sip-010-trait);;implement trait
 
 (define-constant ERR-NOT-AUTHORIZED (err u100))
 (define-constant ERR-WRONG-PRINCIPAL (err u101))
