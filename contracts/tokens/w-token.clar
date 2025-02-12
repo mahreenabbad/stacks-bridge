@@ -1,4 +1,4 @@
-(impl-trait 'STXWGJQ101N1C1FYHK64TGTHN4793CHVKRW3ZGVV.bridge-token.bridge-token-trait)
+(impl-trait 'STXWGJQ101N1C1FYHK64TGTHN4793CHVKRW3ZGVV.bridge-token.bridge-token-trait);; implement trait
 
 (define-constant ERR-NOT-AUTHORIZED (err u10000))
 (define-constant ERR-WRONG-PRINCIPAL (err u10001))
